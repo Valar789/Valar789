@@ -1,5 +1,9 @@
 # 💫 About Me:
-With over 4 years of experience in Software Engineering and Front-End development using React, Next.js, and TypeScript. I have been involved in creating various web projects, ranging from sports tools to business management solutions. Additionally, I have experience with the Scrum methodology and possess strong communication and teamwork skills.
+I have been immersed in technology from a young age, finding my passion in programming. Over the years, I've delved into various technologies and languages, specializing in Front-End development with React, Next.js, and TypeScript.
+
+Learning has always been a driving force for me. My journey began as a self-taught enthusiast, devouring books and tutorials. Later, I pursued Software Engineering and actively continue to expand my skills and knowledge.
+
+I thrive in developer meetings, conferences, and workshops, where I enjoy sharing and gaining insights. The ideal workplace for me is one that fosters continuous evolution and growth.
  
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
